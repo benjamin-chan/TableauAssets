@@ -2,6 +2,11 @@
 
 Repository of additional assets for Tableau.
 
+To save these assets, either
+
+* Clone this repository to save all assets locally, or
+* Navigate to each and click the `Raw` button to locally save an individual asset
+
 
 ## Data
 

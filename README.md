@@ -5,7 +5,7 @@ Repository of additional assets for Tableau.
 To save these assets, either
 
 * Clone this repository to save all assets locally, or
-* Navigate to each and click the `Raw` button to locally save an individual asset
+* Navigate to each asset, click the `Raw` button, and right-click and choose `Save as` (or `Ctrl-S`) to locally save an individual asset
 
 
 ## Data
